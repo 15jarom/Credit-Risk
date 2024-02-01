@@ -17,5 +17,7 @@ This resulted in an astounding 99.6% accuracy!
 ## Summary
 
 Out of the total 19384 borrowers that we tested the model against, out second model correctly identified 19291 correct (that was the 99.59%), but 91 (0.4%) were identified as people who would default but ended up not doing so. 
-So that leaves only 2/19384 (0.01%) that were missed, resaulting in a ver precise mechanism for predicting risk for any company that is looking to implement this model as a screening for their poential customers! 
+So that leaves only 2/19384 (0.01%) that were missed, resulting in a very precise mechanism for predicting risk.
+
+Any company that is looking to implement a screening for poential borrowers could use this model to great effect! 
 
